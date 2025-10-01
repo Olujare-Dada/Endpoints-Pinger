@@ -1,0 +1,3 @@
+https://pmp-course-backend.onrender.com/health
+https://clementine-llm-summarizer-1.onrender.com
+https://clementine-backend-vkyq.onrender.com/
