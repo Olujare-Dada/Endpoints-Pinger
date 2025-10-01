@@ -28,7 +28,7 @@ def ping_links():
         now = datetime.now()
 
         # Check if within allowed time window (10 AM to 7 PM)
-        if 10 <= now.hour < 19:
+        if 0 <= now.hour < 19:
             clear_log_on_saturday()
 
             links = load_links()

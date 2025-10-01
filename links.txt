@@ -1,3 +1,6 @@
 https://pmp-course-backend.onrender.com/health
+https://pmp-course-scraping.onrender.com/health
 https://clementine-llm-summarizer-1.onrender.com
 https://clementine-backend-vkyq.onrender.com/
+https://vehicle-rental-profile-image-uploader.onrender.com/health
+https://vehicle-rental-backend-deployment.onrender.com/health/database

@@ -20677,3 +20677,2164 @@ https://pmp-course-backend.onrender.com/health -> 200 | 249.8 ms | PMP Quiz Plat
 
 --- Ping #6857 at 2025-09-30 05:29:06 ---
 https://pmp-course-backend.onrender.com/health -> 200 | 251.74 ms | PMP Quiz Platform is running
+
+--- Ping #1 at 2025-10-01 00:00:24 ---
+https://pmp-course-backend.onrender.com/health -> ERROR: HTTPSConnectionPool(host='pmp-course-backend.onrender.com', port=443): Read timed out. (read timeout=10)
+https://clementine-llm-summarizer-1.onrender.com -> ERROR: HTTPSConnectionPool(host='clementine-llm-summarizer-1.onrender.com', port=443): Read timed out. (read timeout=10)
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 268.46 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-profile-image-uploader.onrender.com', port=443): Read timed out. (read timeout=10)
+
+--- Ping #2 at 2025-10-01 00:01:35 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 305.44 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> ERROR: HTTPSConnectionPool(host='clementine-llm-summarizer-1.onrender.com', port=443): Read timed out. (read timeout=10)
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 258.56 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 1252.61 ms | Response not JSON
+
+--- Ping #3 at 2025-10-01 00:02:27 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 159.78 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> ERROR: HTTPSConnectionPool(host='clementine-llm-summarizer-1.onrender.com', port=443): Read timed out. (read timeout=10)
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 261.98 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 251.7 ms | Response not JSON
+
+--- Ping #4 at 2025-10-01 00:03:18 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 153.49 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> ERROR: HTTPSConnectionPool(host='clementine-llm-summarizer-1.onrender.com', port=443): Read timed out. (read timeout=10)
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 234.47 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 273.99 ms | Response not JSON
+
+--- Ping #5 at 2025-10-01 00:04:08 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 399.01 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> ERROR: HTTPSConnectionPool(host='clementine-llm-summarizer-1.onrender.com', port=443): Read timed out. (read timeout=10)
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 270.28 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 258.92 ms | Response not JSON
+
+--- Ping #6 at 2025-10-01 00:05:04 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 133.24 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> ERROR: HTTPSConnectionPool(host='clementine-llm-summarizer-1.onrender.com', port=443): Read timed out. (read timeout=10)
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 120.62 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 236.43 ms | Response not JSON
+
+--- Ping #7 at 2025-10-01 00:05:54 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 250.98 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> ERROR: HTTPSConnectionPool(host='clementine-llm-summarizer-1.onrender.com', port=443): Read timed out. (read timeout=10)
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 251.36 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 360.81 ms | Response not JSON
+
+--- Ping #8 at 2025-10-01 00:06:45 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 131.16 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> ERROR: HTTPSConnectionPool(host='clementine-llm-summarizer-1.onrender.com', port=443): Read timed out. (read timeout=10)
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 265.7 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 137.32 ms | Response not JSON
+
+--- Ping #9 at 2025-10-01 00:07:36 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 272.83 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> ERROR: HTTPSConnectionPool(host='clementine-llm-summarizer-1.onrender.com', port=443): Read timed out. (read timeout=10)
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 154.76 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 275.14 ms | Response not JSON
+
+--- Ping #10 at 2025-10-01 00:08:26 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 250.82 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> ERROR: HTTPSConnectionPool(host='clementine-llm-summarizer-1.onrender.com', port=443): Read timed out. (read timeout=10)
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 188.74 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 148.15 ms | Response not JSON
+
+--- Ping #11 at 2025-10-01 00:09:17 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 288.07 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> ERROR: HTTPSConnectionPool(host='clementine-llm-summarizer-1.onrender.com', port=443): Read timed out. (read timeout=10)
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 259.48 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 165.69 ms | Response not JSON
+
+--- Ping #12 at 2025-10-01 00:10:08 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 269.73 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> ERROR: HTTPSConnectionPool(host='clementine-llm-summarizer-1.onrender.com', port=443): Read timed out. (read timeout=10)
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 131.33 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 254.26 ms | Response not JSON
+
+--- Ping #13 at 2025-10-01 00:10:59 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 250.25 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> ERROR: HTTPSConnectionPool(host='clementine-llm-summarizer-1.onrender.com', port=443): Read timed out. (read timeout=10)
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 237.2 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 188.38 ms | Response not JSON
+
+--- Ping #14 at 2025-10-01 00:11:50 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 247.86 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> ERROR: HTTPSConnectionPool(host='clementine-llm-summarizer-1.onrender.com', port=443): Read timed out. (read timeout=10)
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 247.21 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 235.2 ms | Response not JSON
+
+--- Ping #15 at 2025-10-01 00:12:40 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 225.24 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 113.11 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 256.09 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 139.9 ms | Response not JSON
+
+--- Ping #16 at 2025-10-01 00:13:21 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 306.98 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 238.73 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 272.93 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 225.98 ms | Response not JSON
+
+--- Ping #17 at 2025-10-01 00:14:02 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 276.64 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 104.59 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 273.59 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 286.81 ms | Response not JSON
+
+--- Ping #18 at 2025-10-01 00:14:43 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 252.59 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 289.53 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 226.3 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 144.71 ms | Response not JSON
+
+--- Ping #19 at 2025-10-01 00:15:24 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 279.85 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 106.33 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 108.2 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 227.02 ms | Response not JSON
+
+--- Ping #20 at 2025-10-01 00:16:05 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 287.5 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 272.33 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 335.46 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 275.05 ms | Response not JSON
+
+--- Ping #21 at 2025-10-01 00:16:46 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 252.18 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 262.29 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 133.15 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 502 | 479.25 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 143.86 ms | Response not JSON
+
+--- Ping #22 at 2025-10-01 00:17:18 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 248.14 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 259.68 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 237.77 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 502 | 378.48 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 253.39 ms | Response not JSON
+
+--- Ping #23 at 2025-10-01 00:17:49 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 243.98 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 231.07 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 106.74 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 280.86 ms | Response not JSON
+
+--- Ping #24 at 2025-10-01 00:18:30 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 242.18 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 231.72 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 341.63 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 269.91 ms | Response not JSON
+
+--- Ping #25 at 2025-10-01 00:19:11 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 130.83 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 133.44 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 148.88 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 272.25 ms | Response not JSON
+
+--- Ping #26 at 2025-10-01 00:19:52 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 145.86 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 107.13 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 278.77 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 186.73 ms | Response not JSON
+
+--- Ping #27 at 2025-10-01 00:20:33 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 244.78 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 122.04 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 247.74 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 132.39 ms | Response not JSON
+
+--- Ping #28 at 2025-10-01 00:21:13 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 271.81 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 152.18 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 128.1 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 250.12 ms | Response not JSON
+
+--- Ping #29 at 2025-10-01 00:21:54 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 256.03 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 248.37 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 265.46 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 236.95 ms | Response not JSON
+
+--- Ping #30 at 2025-10-01 00:22:35 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 126.31 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 240.55 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 250.44 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 235.86 ms | Response not JSON
+
+--- Ping #31 at 2025-10-01 00:23:16 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 267.33 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 114.15 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 237.11 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 113.18 ms | Response not JSON
+
+--- Ping #32 at 2025-10-01 00:23:57 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 244.98 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 248.1 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 268.31 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 268.2 ms | Response not JSON
+
+--- Ping #33 at 2025-10-01 00:24:38 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 259.72 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 254.73 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 278.87 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 239.52 ms | Response not JSON
+
+--- Ping #34 at 2025-10-01 00:25:19 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 225.61 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 229.97 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 266.19 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 502 | 3501.86 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 230.2 ms | Response not JSON
+
+--- Ping #35 at 2025-10-01 00:25:54 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 249.07 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 247.16 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 251.37 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 231.79 ms | Response not JSON
+
+--- Ping #36 at 2025-10-01 00:26:35 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 156.39 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 130.82 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 121.11 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 259.2 ms | Response not JSON
+
+--- Ping #37 at 2025-10-01 00:27:16 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 239.91 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 269.7 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 254.38 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 225.52 ms | Response not JSON
+
+--- Ping #38 at 2025-10-01 00:27:57 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 262.01 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 303.3 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 263.6 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 264.4 ms | Response not JSON
+
+--- Ping #39 at 2025-10-01 00:28:38 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 267.46 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 222.78 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 241.78 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 256.69 ms | Response not JSON
+
+--- Ping #40 at 2025-10-01 00:29:19 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 260.85 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 246.35 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 128.01 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 145.82 ms | Response not JSON
+
+--- Ping #41 at 2025-10-01 00:30:00 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 264.06 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 239.9 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 236.5 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 264.11 ms | Response not JSON
+
+--- Ping #42 at 2025-10-01 00:30:41 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 142.8 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 103.76 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 249.15 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 278.71 ms | Response not JSON
+
+--- Ping #43 at 2025-10-01 00:31:21 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 258.27 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 253.35 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 123.72 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 264.95 ms | Response not JSON
+
+--- Ping #44 at 2025-10-01 00:32:02 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 244.54 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 235.79 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 234.27 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 134.99 ms | Response not JSON
+
+--- Ping #45 at 2025-10-01 00:32:43 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 437.98 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 240.8 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 273.43 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 231.98 ms | Response not JSON
+
+--- Ping #46 at 2025-10-01 00:33:25 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 146.98 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 242.41 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 249.26 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 236.78 ms | Response not JSON
+
+--- Ping #47 at 2025-10-01 00:34:05 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 250.75 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 248.15 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 246.94 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 234.84 ms | Response not JSON
+
+--- Ping #48 at 2025-10-01 00:34:47 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 260.62 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 254.93 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 255.63 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 142.76 ms | Response not JSON
+
+--- Ping #49 at 2025-10-01 00:35:27 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 232.12 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 268.07 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 123.36 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 262.24 ms | Response not JSON
+
+--- Ping #50 at 2025-10-01 00:36:08 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 233.73 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 240.23 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 239.69 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 271.21 ms | Response not JSON
+
+--- Ping #51 at 2025-10-01 00:36:49 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 257.42 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 154.92 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 264.38 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 106.12 ms | Response not JSON
+
+--- Ping #52 at 2025-10-01 00:37:30 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 108.62 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 242.08 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 229.26 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 112.13 ms | Response not JSON
+
+--- Ping #53 at 2025-10-01 00:38:11 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 134.74 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 238.79 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 133.66 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 129.66 ms | Response not JSON
+
+--- Ping #54 at 2025-10-01 00:38:52 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 256.5 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 143.24 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 250.66 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 243.06 ms | Response not JSON
+
+--- Ping #55 at 2025-10-01 00:39:33 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 181.69 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 264.27 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 237.07 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 242.75 ms | Response not JSON
+
+--- Ping #56 at 2025-10-01 00:40:14 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 122.66 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 137.21 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 243.34 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 255.0 ms | Response not JSON
+
+--- Ping #57 at 2025-10-01 00:40:55 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 242.89 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 241.36 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 428.52 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 318.21 ms | Response not JSON
+
+--- Ping #58 at 2025-10-01 00:41:36 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 116.65 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 112.56 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 145.08 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 247.57 ms | Response not JSON
+
+--- Ping #59 at 2025-10-01 00:42:17 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 234.79 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 263.34 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 273.82 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 269.32 ms | Response not JSON
+
+--- Ping #60 at 2025-10-01 00:42:58 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 142.99 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 255.17 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 252.37 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 244.54 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 273.55 ms | Response not JSON
+
+--- Ping #61 at 2025-10-01 00:43:29 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 288.39 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 277.39 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 245.26 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 198.77 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 284.65 ms | Response not JSON
+
+--- Ping #62 at 2025-10-01 00:44:00 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 286.79 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 272.95 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 226.37 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 244.38 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 250.23 ms | Response not JSON
+
+--- Ping #63 at 2025-10-01 00:44:32 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 271.85 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 124.65 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 248.38 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 242.82 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 241.28 ms | Response not JSON
+
+--- Ping #64 at 2025-10-01 00:45:03 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 261.46 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 353.07 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 230.93 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 244.83 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 143.77 ms | Response not JSON
+
+--- Ping #65 at 2025-10-01 00:45:34 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 228.8 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 126.58 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 264.16 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 153.83 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 339.49 ms | Response not JSON
+
+--- Ping #66 at 2025-10-01 00:46:05 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 283.0 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 250.67 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 145.22 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 153.61 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 260.45 ms | Response not JSON
+
+--- Ping #67 at 2025-10-01 00:46:36 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 253.79 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 229.01 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 107.8 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 242.44 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 143.75 ms | Response not JSON
+
+--- Ping #68 at 2025-10-01 00:47:07 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 248.77 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 234.73 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 137.07 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 225.54 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 239.43 ms | Response not JSON
+
+--- Ping #69 at 2025-10-01 00:47:38 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 133.05 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 228.59 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 247.8 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 230.44 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 249.49 ms | Response not JSON
+
+--- Ping #70 at 2025-10-01 00:48:10 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 230.79 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 130.66 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 114.16 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 233.24 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 238.5 ms | Response not JSON
+
+--- Ping #71 at 2025-10-01 00:48:40 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 260.38 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 267.52 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 280.57 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 141.5 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 248.48 ms | Response not JSON
+
+--- Ping #72 at 2025-10-01 00:49:12 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 257.18 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 141.67 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 295.45 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 244.33 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 249.74 ms | Response not JSON
+
+--- Ping #73 at 2025-10-01 00:49:43 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 161.5 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 109.61 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 225.3 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 272.86 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 249.96 ms | Response not JSON
+
+--- Ping #74 at 2025-10-01 00:50:14 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 258.12 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 252.5 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 257.51 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 254.02 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 270.48 ms | Response not JSON
+
+--- Ping #75 at 2025-10-01 00:50:45 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 255.47 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 256.58 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 115.43 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 243.82 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 229.71 ms | Response not JSON
+
+--- Ping #76 at 2025-10-01 00:51:16 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 263.81 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 276.35 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 125.66 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 166.58 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 239.31 ms | Response not JSON
+
+--- Ping #77 at 2025-10-01 00:51:47 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 231.22 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 241.15 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 158.11 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 235.49 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 240.16 ms | Response not JSON
+
+--- Ping #78 at 2025-10-01 00:52:19 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 112.99 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 237.77 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 227.58 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 142.53 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 132.94 ms | Response not JSON
+
+--- Ping #79 at 2025-10-01 00:52:49 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 104.9 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 227.18 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 232.18 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 237.46 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 227.28 ms | Response not JSON
+
+--- Ping #80 at 2025-10-01 00:53:20 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 132.25 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 123.64 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 255.71 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 257.08 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 274.29 ms | Response not JSON
+
+--- Ping #81 at 2025-10-01 00:53:51 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 260.14 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 270.51 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 112.19 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 245.05 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 132.6 ms | Response not JSON
+
+--- Ping #82 at 2025-10-01 00:54:22 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 131.83 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 133.24 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 122.21 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 142.49 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 239.35 ms | Response not JSON
+
+--- Ping #83 at 2025-10-01 00:54:53 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 246.66 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 237.53 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 173.86 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 252.56 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 261.69 ms | Response not JSON
+
+--- Ping #84 at 2025-10-01 00:55:24 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 105.95 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 228.52 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 1237.44 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 223.48 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 249.88 ms | Response not JSON
+
+--- Ping #85 at 2025-10-01 00:55:56 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 253.21 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 128.49 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 239.02 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 98.84 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 232.97 ms | Response not JSON
+
+--- Ping #86 at 2025-10-01 00:56:27 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 273.18 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 267.96 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 111.85 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 243.88 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 121.7 ms | Response not JSON
+
+--- Ping #87 at 2025-10-01 00:56:58 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 241.8 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 121.44 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 122.45 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 137.32 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 229.78 ms | Response not JSON
+
+--- Ping #88 at 2025-10-01 00:57:29 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 226.0 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 149.64 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 113.68 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 242.99 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 232.28 ms | Response not JSON
+
+--- Ping #89 at 2025-10-01 00:58:00 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 228.96 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 140.58 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 125.28 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 235.27 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 121.61 ms | Response not JSON
+
+--- Ping #90 at 2025-10-01 00:58:31 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 228.06 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 267.48 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 239.37 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 102.07 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 253.21 ms | Response not JSON
+
+--- Ping #91 at 2025-10-01 00:59:02 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 105.32 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 124.29 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 251.62 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 119.66 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 105.94 ms | Response not JSON
+
+--- Ping #92 at 2025-10-01 00:59:33 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 231.94 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 135.35 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 264.38 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 240.02 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 113.65 ms | Response not JSON
+
+--- Ping #93 at 2025-10-01 01:00:04 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 130.99 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 285.22 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 146.98 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 503 | 111.25 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 111.5 ms | Response not JSON
+
+--- Ping #94 at 2025-10-01 01:00:35 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 125.29 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 229.37 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 256.96 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 259.44 ms | Response not JSON
+
+--- Ping #95 at 2025-10-01 01:01:16 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 259.79 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 245.12 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 244.65 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 129.15 ms | Response not JSON
+
+--- Ping #96 at 2025-10-01 01:01:57 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 245.96 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 112.59 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 249.74 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 141.67 ms | Response not JSON
+
+--- Ping #97 at 2025-10-01 01:02:37 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 148.92 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 108.72 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 239.52 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 249.92 ms | Response not JSON
+
+--- Ping #98 at 2025-10-01 01:03:18 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 271.32 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 261.25 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 325.97 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 269.32 ms | Response not JSON
+
+--- Ping #99 at 2025-10-01 01:03:59 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 253.9 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 143.73 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 238.67 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 118.16 ms | Response not JSON
+
+--- Ping #100 at 2025-10-01 01:04:40 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 107.26 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 273.48 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 123.21 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 148.88 ms | Response not JSON
+
+--- Ping #101 at 2025-10-01 01:05:21 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 248.27 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 125.78 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 245.37 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 129.17 ms | Response not JSON
+
+--- Ping #102 at 2025-10-01 01:06:02 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 228.66 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 244.16 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 196.84 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 129.04 ms | Response not JSON
+
+--- Ping #103 at 2025-10-01 01:06:44 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 239.75 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 246.97 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 131.3 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 257.27 ms | Response not JSON
+
+--- Ping #104 at 2025-10-01 01:07:24 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 242.26 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 255.21 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 251.59 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 306.96 ms | Response not JSON
+
+--- Ping #105 at 2025-10-01 01:08:06 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 110.08 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 125.61 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 141.17 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 252.79 ms | Response not JSON
+
+--- Ping #106 at 2025-10-01 01:08:46 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 271.41 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 244.38 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 239.38 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 230.62 ms | Response not JSON
+
+--- Ping #107 at 2025-10-01 01:09:27 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 241.02 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 242.54 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 118.55 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 246.87 ms | Response not JSON
+
+--- Ping #108 at 2025-10-01 01:10:08 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 507.33 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 424.21 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 254.9 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 266.83 ms | Response not JSON
+
+--- Ping #109 at 2025-10-01 01:10:50 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 110.6 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 271.83 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 243.59 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 236.88 ms | Response not JSON
+
+--- Ping #110 at 2025-10-01 01:11:31 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 150.01 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 230.41 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 258.11 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 136.5 ms | Response not JSON
+
+--- Ping #111 at 2025-10-01 01:12:11 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 235.67 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 246.2 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 237.97 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 232.47 ms | Response not JSON
+
+--- Ping #112 at 2025-10-01 01:12:52 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 245.18 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 229.88 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 247.24 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 143.26 ms | Response not JSON
+
+--- Ping #113 at 2025-10-01 01:13:33 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 126.59 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 234.72 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 239.27 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 241.26 ms | Response not JSON
+
+--- Ping #114 at 2025-10-01 01:14:14 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 153.18 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 137.12 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 258.81 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 252.28 ms | Response not JSON
+
+--- Ping #115 at 2025-10-01 01:14:55 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 255.05 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 120.92 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 254.27 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 238.38 ms | Response not JSON
+
+--- Ping #116 at 2025-10-01 01:15:36 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 120.05 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 232.61 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 121.65 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 247.81 ms | Response not JSON
+
+--- Ping #117 at 2025-10-01 01:16:17 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 111.6 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 238.25 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 239.16 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 243.77 ms | Response not JSON
+
+--- Ping #118 at 2025-10-01 01:16:58 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 266.83 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 238.69 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 258.04 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 258.59 ms | Response not JSON
+
+--- Ping #119 at 2025-10-01 01:17:39 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 225.83 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 242.64 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 115.46 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 265.12 ms | Response not JSON
+
+--- Ping #120 at 2025-10-01 01:18:20 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 246.09 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 110.24 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 125.66 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 276.29 ms | Response not JSON
+
+--- Ping #121 at 2025-10-01 01:19:00 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 284.35 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 248.55 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 247.17 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 248.22 ms | Response not JSON
+
+--- Ping #122 at 2025-10-01 01:19:41 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 278.27 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 126.62 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 135.55 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 252.72 ms | Response not JSON
+
+--- Ping #123 at 2025-10-01 01:20:22 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 243.69 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 256.18 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 259.66 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 133.11 ms | Response not JSON
+
+--- Ping #124 at 2025-10-01 01:21:03 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 241.19 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 249.68 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 116.1 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 241.79 ms | Response not JSON
+
+--- Ping #125 at 2025-10-01 01:21:44 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 256.34 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 248.41 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 265.08 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 262.36 ms | Response not JSON
+
+--- Ping #126 at 2025-10-01 01:22:25 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 271.15 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 232.0 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 117.39 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 239.84 ms | Response not JSON
+
+--- Ping #127 at 2025-10-01 01:23:06 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 126.62 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 224.48 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 119.18 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 252.01 ms | Response not JSON
+
+--- Ping #128 at 2025-10-01 01:23:47 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 283.34 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 124.44 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 250.13 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 284.49 ms | Response not JSON
+
+--- Ping #129 at 2025-10-01 01:24:28 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 260.33 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 108.44 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 122.25 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 127.03 ms | Response not JSON
+
+--- Ping #130 at 2025-10-01 01:25:09 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 238.97 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 263.74 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 259.49 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 159.14 ms | Response not JSON
+
+--- Ping #131 at 2025-10-01 01:25:50 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 232.88 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 247.64 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 145.86 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 268.06 ms | Response not JSON
+
+--- Ping #132 at 2025-10-01 01:26:30 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 136.4 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 227.87 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 127.34 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 150.31 ms | Response not JSON
+
+--- Ping #133 at 2025-10-01 01:27:11 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 141.12 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 272.02 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 265.92 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 252.7 ms | Response not JSON
+
+--- Ping #134 at 2025-10-01 01:27:52 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 254.64 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 122.84 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 116.65 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 159.87 ms | Response not JSON
+
+--- Ping #135 at 2025-10-01 01:28:33 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 230.08 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 226.65 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 233.43 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 230.61 ms | Response not JSON
+
+--- Ping #136 at 2025-10-01 01:29:14 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 253.71 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 246.63 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 247.46 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 502 | 353.85 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 240.68 ms | Response not JSON
+
+--- Ping #137 at 2025-10-01 01:29:45 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 239.89 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 230.94 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 244.51 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 268.25 ms | Response not JSON
+
+--- Ping #138 at 2025-10-01 01:30:26 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 124.41 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 240.72 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 226.68 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 230.16 ms | Response not JSON
+
+--- Ping #139 at 2025-10-01 01:31:07 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 234.52 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 128.84 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 143.63 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> ERROR: HTTPSConnectionPool(host='vehicle-rental-backend-deployment.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 234.24 ms | Response not JSON
+
+--- Ping #140 at 2025-10-01 01:31:48 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 230.75 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 275.71 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 262.57 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 250.12 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 251.87 ms | Response not JSON
+
+--- Ping #141 at 2025-10-01 01:32:19 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 240.42 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 237.94 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 260.47 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 136.92 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 243.27 ms | Response not JSON
+
+--- Ping #142 at 2025-10-01 01:32:50 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 237.09 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 237.78 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 232.45 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 242.79 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 104.72 ms | Response not JSON
+
+--- Ping #143 at 2025-10-01 01:33:21 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 243.94 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 240.85 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 108.4 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 121.66 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 109.39 ms | Response not JSON
+
+--- Ping #144 at 2025-10-01 01:33:52 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 273.17 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 238.04 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 299.72 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 255.07 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 238.31 ms | Response not JSON
+
+--- Ping #145 at 2025-10-01 01:34:23 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 256.84 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 358.08 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 264.39 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 250.36 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 233.89 ms | Response not JSON
+
+--- Ping #146 at 2025-10-01 01:34:55 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 148.39 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 231.51 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 237.78 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 130.81 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 248.79 ms | Response not JSON
+
+--- Ping #147 at 2025-10-01 01:35:26 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 235.47 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 142.27 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 114.48 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 245.62 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 233.59 ms | Response not JSON
+
+--- Ping #148 at 2025-10-01 01:35:57 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 132.52 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 225.98 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 233.52 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 111.53 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 268.67 ms | Response not JSON
+
+--- Ping #149 at 2025-10-01 01:36:28 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 253.56 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 118.75 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 236.68 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 264.15 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 121.59 ms | Response not JSON
+
+--- Ping #150 at 2025-10-01 01:36:59 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 283.16 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 148.88 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 280.55 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 151.17 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 243.6 ms | Response not JSON
+
+--- Ping #151 at 2025-10-01 01:37:30 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 142.16 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 162.07 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 236.53 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 153.72 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 239.28 ms | Response not JSON
+
+--- Ping #152 at 2025-10-01 01:38:01 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 116.64 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 246.29 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 246.82 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 247.17 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 164.63 ms | Response not JSON
+
+--- Ping #153 at 2025-10-01 01:38:32 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 132.69 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 293.94 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 135.68 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 296.2 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 144.71 ms | Response not JSON
+
+--- Ping #154 at 2025-10-01 01:39:03 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 229.16 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 178.75 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 241.09 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 114.31 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 268.35 ms | Response not JSON
+
+--- Ping #155 at 2025-10-01 01:39:34 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 279.33 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 256.79 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 238.09 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 264.34 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 251.27 ms | Response not JSON
+
+--- Ping #156 at 2025-10-01 01:40:05 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 249.31 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 250.1 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 230.34 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 241.69 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 238.24 ms | Response not JSON
+
+--- Ping #157 at 2025-10-01 01:40:37 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 142.42 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 125.13 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 112.47 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 159.7 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 236.34 ms | Response not JSON
+
+--- Ping #158 at 2025-10-01 01:41:07 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 392.52 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 240.72 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 244.89 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 257.81 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 245.19 ms | Response not JSON
+
+--- Ping #159 at 2025-10-01 01:41:39 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 135.0 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 269.59 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 226.33 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 256.1 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 145.11 ms | Response not JSON
+
+--- Ping #160 at 2025-10-01 01:42:10 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 244.94 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 251.84 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 241.35 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 112.62 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 260.19 ms | Response not JSON
+
+--- Ping #161 at 2025-10-01 01:42:41 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 240.23 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 259.11 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 111.51 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 149.2 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 254.22 ms | Response not JSON
+
+--- Ping #162 at 2025-10-01 01:43:12 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 233.62 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 251.09 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 228.57 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 219.06 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 248.47 ms | Response not JSON
+
+--- Ping #163 at 2025-10-01 01:43:43 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 258.99 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 227.05 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 264.41 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 266.5 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 259.18 ms | Response not JSON
+
+--- Ping #164 at 2025-10-01 01:44:15 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 291.99 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 258.21 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 106.56 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 249.16 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 256.87 ms | Response not JSON
+
+--- Ping #165 at 2025-10-01 01:44:46 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 245.15 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 241.47 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 277.37 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 234.58 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 244.54 ms | Response not JSON
+
+--- Ping #166 at 2025-10-01 01:45:17 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 279.88 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 122.79 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 249.68 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 139.48 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 242.04 ms | Response not JSON
+
+--- Ping #167 at 2025-10-01 01:45:48 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 278.87 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 246.51 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 261.4 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 264.53 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 254.43 ms | Response not JSON
+
+--- Ping #168 at 2025-10-01 01:46:19 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 244.35 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 236.68 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 130.9 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 122.37 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 269.71 ms | Response not JSON
+
+--- Ping #169 at 2025-10-01 01:46:50 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 125.79 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 127.28 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 227.82 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 232.78 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 228.62 ms | Response not JSON
+
+--- Ping #170 at 2025-10-01 01:47:21 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 156.64 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 139.12 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 120.72 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 255.85 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 124.65 ms | Response not JSON
+
+--- Ping #171 at 2025-10-01 01:47:52 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 247.2 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 227.39 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 243.67 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 128.02 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 150.64 ms | Response not JSON
+
+--- Ping #172 at 2025-10-01 01:48:23 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 257.49 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 230.71 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 117.78 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 243.18 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 244.06 ms | Response not JSON
+
+--- Ping #173 at 2025-10-01 01:48:54 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 247.67 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 125.28 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 253.93 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 699.97 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 226.93 ms | Response not JSON
+
+--- Ping #174 at 2025-10-01 01:49:26 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 110.07 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 248.73 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 246.69 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 250.6 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 242.71 ms | Response not JSON
+
+--- Ping #175 at 2025-10-01 01:49:57 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 239.72 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 256.89 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 111.64 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 120.87 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 229.08 ms | Response not JSON
+
+--- Ping #176 at 2025-10-01 01:50:28 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 131.14 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 135.7 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 248.73 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 128.23 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 236.48 ms | Response not JSON
+
+--- Ping #177 at 2025-10-01 01:50:59 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 141.62 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 118.79 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 233.29 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 250.11 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 116.67 ms | Response not JSON
+
+--- Ping #178 at 2025-10-01 01:51:30 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 268.18 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 137.8 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 142.13 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 125.62 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 257.41 ms | Response not JSON
+
+--- Ping #179 at 2025-10-01 01:52:01 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 244.9 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 235.17 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 251.19 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 124.15 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 149.84 ms | Response not JSON
+
+--- Ping #180 at 2025-10-01 01:52:32 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 246.02 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 252.4 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 118.45 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 265.53 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 242.05 ms | Response not JSON
+
+--- Ping #181 at 2025-10-01 01:53:03 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 283.78 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 245.81 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 157.92 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 232.03 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 221.47 ms | Response not JSON
+
+--- Ping #182 at 2025-10-01 01:53:34 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 115.65 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 123.12 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 250.16 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 236.26 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 129.69 ms | Response not JSON
+
+--- Ping #183 at 2025-10-01 01:54:05 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 250.82 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 232.3 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 242.03 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 259.4 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 253.47 ms | Response not JSON
+
+--- Ping #184 at 2025-10-01 01:54:36 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 264.69 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 130.13 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 226.39 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 251.09 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 228.3 ms | Response not JSON
+
+--- Ping #185 at 2025-10-01 01:55:07 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 247.57 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 242.41 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 113.59 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 134.36 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 113.96 ms | Response not JSON
+
+--- Ping #186 at 2025-10-01 01:55:38 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 123.12 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 263.91 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 111.61 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 235.27 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 246.21 ms | Response not JSON
+
+--- Ping #187 at 2025-10-01 01:56:09 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 150.68 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 293.55 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 226.1 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 266.36 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 335.37 ms | Response not JSON
+
+--- Ping #188 at 2025-10-01 01:56:40 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 246.31 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 126.46 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 227.58 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 231.96 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 234.15 ms | Response not JSON
+
+--- Ping #189 at 2025-10-01 01:57:11 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 252.87 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 256.34 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 270.2 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 157.08 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 107.64 ms | Response not JSON
+
+--- Ping #190 at 2025-10-01 01:57:42 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 254.42 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 128.67 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 138.68 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 303.97 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 231.6 ms | Response not JSON
+
+--- Ping #191 at 2025-10-01 01:58:13 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 241.99 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 261.92 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 235.71 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 257.55 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 241.72 ms | Response not JSON
+
+--- Ping #192 at 2025-10-01 01:58:45 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 232.76 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 236.14 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 233.68 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 230.7 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 261.43 ms | Response not JSON
+
+--- Ping #193 at 2025-10-01 01:59:16 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 270.22 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 237.82 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 131.73 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 268.78 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 270.61 ms | Response not JSON
+
+--- Ping #194 at 2025-10-01 01:59:47 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 224.37 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 233.71 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 251.64 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 226.04 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 116.7 ms | Response not JSON
+
+--- Ping #195 at 2025-10-01 02:00:18 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 247.97 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 288.77 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 255.89 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 147.48 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 235.08 ms | Response not JSON
+
+--- Ping #196 at 2025-10-01 02:00:49 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 225.75 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 240.71 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 231.08 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 266.91 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 245.64 ms | Response not JSON
+
+--- Ping #197 at 2025-10-01 02:01:21 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 244.39 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 278.34 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 267.24 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 233.92 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 127.8 ms | Response not JSON
+
+--- Ping #198 at 2025-10-01 02:01:52 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 259.86 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 258.19 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 239.04 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 230.02 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 110.7 ms | Response not JSON
+
+--- Ping #199 at 2025-10-01 02:02:23 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 252.3 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 249.43 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 148.19 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 251.85 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 246.63 ms | Response not JSON
+
+--- Ping #200 at 2025-10-01 02:02:54 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 225.79 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 242.44 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 130.59 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 232.06 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 120.62 ms | Response not JSON
+
+--- Ping #201 at 2025-10-01 02:03:25 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 280.76 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 126.25 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 237.84 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 149.29 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 236.84 ms | Response not JSON
+
+--- Ping #202 at 2025-10-01 02:03:56 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 266.6 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 252.95 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 227.61 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 241.7 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 226.4 ms | Response not JSON
+
+--- Ping #203 at 2025-10-01 02:04:27 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 276.36 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 248.49 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 245.33 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 238.97 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 241.25 ms | Response not JSON
+
+--- Ping #204 at 2025-10-01 02:04:58 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 107.67 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 148.75 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 228.16 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 254.85 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 234.0 ms | Response not JSON
+
+--- Ping #205 at 2025-10-01 02:05:29 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 177.62 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 241.83 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 249.36 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 278.16 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 138.58 ms | Response not JSON
+
+--- Ping #206 at 2025-10-01 02:06:00 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 263.18 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 264.51 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 273.07 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 109.71 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 257.09 ms | Response not JSON
+
+--- Ping #207 at 2025-10-01 02:06:32 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 227.88 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 207.91 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 144.28 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 248.64 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 232.71 ms | Response not JSON
+
+--- Ping #208 at 2025-10-01 02:07:03 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 250.89 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 143.95 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 230.02 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 251.75 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 110.67 ms | Response not JSON
+
+--- Ping #209 at 2025-10-01 02:07:34 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 172.29 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 252.02 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 156.35 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 289.38 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 136.65 ms | Response not JSON
+
+--- Ping #210 at 2025-10-01 02:08:05 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 225.55 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 233.69 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 232.28 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 242.78 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 257.59 ms | Response not JSON
+
+--- Ping #211 at 2025-10-01 02:08:36 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 242.97 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 230.33 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 255.44 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 272.17 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 247.97 ms | Response not JSON
+
+--- Ping #212 at 2025-10-01 02:09:07 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 271.19 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 247.84 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 160.11 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 238.11 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 113.59 ms | Response not JSON
+
+--- Ping #213 at 2025-10-01 02:09:38 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 151.1 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 238.12 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 230.22 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 257.14 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 258.88 ms | Response not JSON
+
+--- Ping #214 at 2025-10-01 02:10:09 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 232.06 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 228.47 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> ERROR: HTTPSConnectionPool(host='clementine-backend-vkyq.onrender.com', port=443): Read timed out. (read timeout=10)
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 137.09 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 254.64 ms | Response not JSON
+
+--- Ping #215 at 2025-10-01 02:10:50 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 225.88 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 240.03 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 267.55 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 143.73 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 127.12 ms | Response not JSON
+
+--- Ping #216 at 2025-10-01 02:11:21 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 151.38 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 132.66 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 233.24 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 113.45 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 252.32 ms | Response not JSON
+
+--- Ping #217 at 2025-10-01 02:11:52 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 130.15 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 236.73 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 125.6 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 230.29 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 230.98 ms | Response not JSON
+
+--- Ping #218 at 2025-10-01 02:12:23 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 245.88 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 144.06 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 249.11 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 152.08 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 232.15 ms | Response not JSON
+
+--- Ping #219 at 2025-10-01 02:12:54 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 235.37 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 233.28 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 125.61 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 262.89 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 148.57 ms | Response not JSON
+
+--- Ping #220 at 2025-10-01 02:13:25 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 261.93 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 134.6 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 266.78 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 116.45 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 242.96 ms | Response not JSON
+
+--- Ping #221 at 2025-10-01 02:13:56 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 254.56 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 237.78 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 138.72 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 253.34 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 225.27 ms | Response not JSON
+
+--- Ping #222 at 2025-10-01 02:14:27 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 248.6 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 147.63 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 152.31 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 256.12 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 230.31 ms | Response not JSON
+
+--- Ping #223 at 2025-10-01 02:14:58 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 256.04 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 232.04 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 232.41 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 246.21 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 114.3 ms | Response not JSON
+
+--- Ping #224 at 2025-10-01 02:15:29 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 279.2 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 134.57 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 250.13 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 159.43 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 109.38 ms | Response not JSON
+
+--- Ping #225 at 2025-10-01 02:16:00 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 267.82 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 137.42 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 126.37 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 231.3 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 239.35 ms | Response not JSON
+
+--- Ping #226 at 2025-10-01 02:16:31 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 241.36 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 112.59 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 241.64 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 129.7 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 176.22 ms | Response not JSON
+
+--- Ping #227 at 2025-10-01 02:17:02 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 100.6 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 244.87 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 265.62 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 139.78 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 256.31 ms | Response not JSON
+
+--- Ping #228 at 2025-10-01 02:17:33 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 271.76 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 139.42 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 160.38 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 269.45 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 161.07 ms | Response not JSON
+
+--- Ping #229 at 2025-10-01 02:18:04 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 269.78 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 262.57 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 261.32 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 240.91 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 242.75 ms | Response not JSON
+
+--- Ping #230 at 2025-10-01 02:18:36 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 124.68 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 248.05 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 268.34 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 147.69 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 118.06 ms | Response not JSON
+
+--- Ping #231 at 2025-10-01 02:19:06 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 122.65 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 253.03 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 104.06 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 118.78 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 108.64 ms | Response not JSON
+
+--- Ping #232 at 2025-10-01 02:19:37 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 278.94 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 271.48 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 232.07 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 469.33 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 226.03 ms | Response not JSON
+
+--- Ping #233 at 2025-10-01 02:20:09 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 257.72 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 129.34 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 250.42 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 502 | 480.63 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 233.6 ms | Response not JSON
+
+--- Ping #234 at 2025-10-01 02:20:40 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 133.6 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 231.64 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 259.57 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 237.87 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 240.06 ms | Response not JSON
+
+--- Ping #235 at 2025-10-01 02:21:11 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 146.43 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 118.19 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 252.9 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 246.63 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 131.0 ms | Response not JSON
+
+--- Ping #236 at 2025-10-01 02:21:42 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 228.78 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 140.24 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 260.28 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 140.14 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 239.34 ms | Response not JSON
+
+--- Ping #237 at 2025-10-01 02:22:13 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 253.69 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 124.65 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 245.42 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 233.64 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 152.59 ms | Response not JSON
+
+--- Ping #238 at 2025-10-01 02:22:44 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 276.55 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 174.4 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 258.59 ms | Welcome to Clementine Chat App
+https://vehicle-rental-backend-deployment.onrender.com -> 403 | 275.73 ms | Response not JSON
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 242.3 ms | Response not JSON
+
+--- Ping #239 at 2025-10-01 02:23:15 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 246.81 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 255.82 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 169.88 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 124.72 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 350.63 ms | Database connection successful
+
+--- Ping #240 at 2025-10-01 02:23:46 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 112.64 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 237.84 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 253.74 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 235.07 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 321.4 ms | Database connection successful
+
+--- Ping #241 at 2025-10-01 02:24:18 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 112.59 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 118.2 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 227.46 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 255.62 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 356.75 ms | Database connection successful
+
+--- Ping #242 at 2025-10-01 02:24:49 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 264.11 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 252.16 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 121.48 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 231.93 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 395.18 ms | Database connection successful
+
+--- Ping #243 at 2025-10-01 02:25:20 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 250.79 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 265.11 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 252.56 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 126.05 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 342.7 ms | Database connection successful
+
+--- Ping #244 at 2025-10-01 02:25:51 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 125.75 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 242.47 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 248.99 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 252.5 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 353.24 ms | Database connection successful
+
+--- Ping #245 at 2025-10-01 02:26:22 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 185.14 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 133.46 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 105.66 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 249.66 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 363.24 ms | Database connection successful
+
+--- Ping #246 at 2025-10-01 02:26:53 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 255.79 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 242.37 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 250.11 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 231.81 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 332.49 ms | Database connection successful
+
+--- Ping #247 at 2025-10-01 02:27:25 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 240.7 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 241.83 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 252.2 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 130.47 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 337.86 ms | Database connection successful
+
+--- Ping #248 at 2025-10-01 02:27:56 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 297.1 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 257.02 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 258.78 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 105.29 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 219.22 ms | Database connection successful
+
+--- Ping #249 at 2025-10-01 02:28:27 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 252.08 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 257.29 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 227.85 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 274.87 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 340.49 ms | Database connection successful
+
+--- Ping #250 at 2025-10-01 02:28:58 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 228.67 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 227.37 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 237.59 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 132.41 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 322.49 ms | Database connection successful
+
+--- Ping #251 at 2025-10-01 02:29:30 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 224.65 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 256.79 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 226.23 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 250.86 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 329.02 ms | Database connection successful
+
+--- Ping #252 at 2025-10-01 02:30:01 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 227.68 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 134.87 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 250.15 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 114.54 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 308.02 ms | Database connection successful
+
+--- Ping #253 at 2025-10-01 02:30:32 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 252.32 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 245.57 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 245.83 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 224.32 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 261.76 ms | Database connection successful
+
+--- Ping #254 at 2025-10-01 02:31:03 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 123.14 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 243.26 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 256.95 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 239.25 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 341.67 ms | Database connection successful
+
+--- Ping #255 at 2025-10-01 02:31:34 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 246.26 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 132.95 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 273.79 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 237.87 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 325.16 ms | Database connection successful
+
+--- Ping #256 at 2025-10-01 02:32:06 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 266.73 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 266.62 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 242.8 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 404 | 262.05 ms | Response not JSON
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 332.06 ms | Database connection successful
+
+--- Ping #257 at 2025-10-01 02:32:37 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 243.38 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 254.35 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 369.74 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com -> 200 | 163.9 ms | No message in response
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 201.37 ms | Database connection successful
+
+--- Ping #258 at 2025-10-01 02:33:08 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 284.05 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 245.32 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 268.58 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 135.63 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 445.55 ms | Database connection successful
+
+--- Ping #259 at 2025-10-01 02:33:40 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 137.15 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 244.05 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 114.15 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 128.6 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 326.23 ms | Database connection successful
+
+--- Ping #260 at 2025-10-01 02:34:11 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 304.16 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 275.74 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 279.47 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 291.45 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 343.02 ms | Database connection successful
+
+--- Ping #261 at 2025-10-01 02:34:42 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 263.1 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 248.72 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 296.22 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 224.61 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 352.1 ms | Database connection successful
+
+--- Ping #262 at 2025-10-01 02:35:13 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 261.31 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 242.35 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 123.68 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 271.94 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 234.78 ms | Database connection successful
+
+--- Ping #263 at 2025-10-01 02:35:45 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 242.82 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 255.39 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 116.49 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 101.54 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 330.87 ms | Database connection successful
+
+--- Ping #264 at 2025-10-01 02:36:16 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 273.76 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 117.3 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 148.82 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 242.66 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 364.68 ms | Database connection successful
+
+--- Ping #265 at 2025-10-01 02:36:47 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 256.84 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 236.15 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 230.26 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 137.65 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 337.0 ms | Database connection successful
+
+--- Ping #266 at 2025-10-01 02:37:18 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 243.94 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 242.25 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 234.18 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 229.65 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 248.76 ms | Database connection successful
+
+--- Ping #267 at 2025-10-01 02:37:49 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 226.06 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 250.02 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 263.71 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 240.8 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 317.76 ms | Database connection successful
+
+--- Ping #268 at 2025-10-01 02:38:20 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 143.37 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 227.98 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 125.32 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 235.48 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 332.54 ms | Database connection successful
+
+--- Ping #269 at 2025-10-01 02:38:52 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 151.29 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 259.22 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 225.41 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 103.67 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 197.1 ms | Database connection successful
+
+--- Ping #270 at 2025-10-01 02:39:22 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 244.32 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 230.27 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 255.06 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 242.8 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 322.76 ms | Database connection successful
+
+--- Ping #271 at 2025-10-01 02:39:54 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 272.33 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 264.65 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 147.5 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 228.19 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 238.74 ms | Database connection successful
+
+--- Ping #272 at 2025-10-01 02:40:25 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 417.23 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 250.88 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 227.1 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 228.97 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 334.6 ms | Database connection successful
+
+--- Ping #273 at 2025-10-01 02:40:56 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 513.74 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 239.66 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 255.34 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 233.0 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 218.18 ms | Database connection successful
+
+--- Ping #274 at 2025-10-01 02:41:28 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 290.52 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 193.83 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 268.87 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 263.04 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 325.06 ms | Database connection successful
+
+--- Ping #275 at 2025-10-01 02:41:59 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 388.59 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 136.91 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 247.46 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 98.0 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 276.59 ms | Database connection successful
+
+--- Ping #276 at 2025-10-01 02:42:30 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 325.77 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 251.41 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 233.44 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 250.05 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 354.21 ms | Database connection successful
+
+--- Ping #277 at 2025-10-01 02:43:02 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 323.96 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 228.43 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 119.63 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 126.63 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 224.66 ms | Database connection successful
+
+--- Ping #278 at 2025-10-01 02:43:33 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 342.19 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 147.99 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 300.12 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 255.28 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 353.97 ms | Database connection successful
+
+--- Ping #279 at 2025-10-01 02:44:04 ---
+https://pmp-course-backend.onrender.com/health -> 502 | 489.52 ms | Response not JSON
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 252.27 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 125.55 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 247.24 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 317.92 ms | Database connection successful
+
+--- Ping #280 at 2025-10-01 02:44:36 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 442.83 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 236.05 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 266.38 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 261.13 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 438.89 ms | Database connection successful
+
+--- Ping #281 at 2025-10-01 02:45:07 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 394.29 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 261.68 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 259.37 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 137.6 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 334.21 ms | Database connection successful
+
+--- Ping #282 at 2025-10-01 02:45:39 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 405.46 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 230.77 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 133.13 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 116.1 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 596.66 ms | Database connection successful
+
+--- Ping #283 at 2025-10-01 02:46:10 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 419.91 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 124.1 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 253.28 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 242.47 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 315.4 ms | Database connection successful
+
+--- Ping #284 at 2025-10-01 02:46:42 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 505.13 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 119.14 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 251.65 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 250.34 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 321.53 ms | Database connection successful
+
+--- Ping #285 at 2025-10-01 02:47:13 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 411.31 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 247.12 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 120.61 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 235.55 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 403.45 ms | Database connection successful
+
+--- Ping #286 at 2025-10-01 02:47:44 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 400.02 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 137.53 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 234.03 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 121.14 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 348.22 ms | Database connection successful
+
+--- Ping #287 at 2025-10-01 02:48:16 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 423.85 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 261.38 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 101.99 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 225.49 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 224.69 ms | Database connection successful
+
+--- Ping #288 at 2025-10-01 02:48:47 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 492.68 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 244.94 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 136.66 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 254.78 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 319.83 ms | Database connection successful
+
+--- Ping #289 at 2025-10-01 02:49:18 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 385.51 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 300.48 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 140.23 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 236.21 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 487.8 ms | Database connection successful
+
+--- Ping #290 at 2025-10-01 02:49:50 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 420.76 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 220.39 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 138.37 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 241.52 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 237.47 ms | Database connection successful
+
+--- Ping #291 at 2025-10-01 02:50:21 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 299.55 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 239.35 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 228.26 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 236.24 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 330.36 ms | Database connection successful
+
+--- Ping #292 at 2025-10-01 02:50:53 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 511.73 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 111.66 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 133.65 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 251.08 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 366.67 ms | Database connection successful
+
+--- Ping #293 at 2025-10-01 02:51:24 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 398.01 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 219.56 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 246.35 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 252.81 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 335.19 ms | Database connection successful
+
+--- Ping #294 at 2025-10-01 02:51:56 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 334.77 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 224.57 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 245.39 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 135.68 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 391.57 ms | Database connection successful
+
+--- Ping #295 at 2025-10-01 02:52:27 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 387.05 ms | PMP Quiz Platform is running
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 235.77 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 232.11 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 224.44 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 333.63 ms | Database connection successful
+
+--- Ping #296 at 2025-10-01 02:52:58 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 610.07 ms | PMP Quiz Platform is running
+https://pmp-course-scraping.onrender.com/ping -> 404 | 264.74 ms | Response not JSON
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 125.36 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 262.96 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 241.17 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 245.18 ms | Database connection successful
+
+--- Ping #297 at 2025-10-01 02:53:30 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 402.44 ms | PMP Quiz Platform is running
+https://pmp-course-scraping.onrender.com/health -> 404 | 131.43 ms | Response not JSON
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 227.48 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 124.67 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 227.69 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 191.29 ms | Database connection successful
+
+--- Ping #298 at 2025-10-01 02:54:01 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 315.64 ms | PMP Quiz Platform is running
+https://pmp-course-scraping.onrender.com/health -> 404 | 117.59 ms | Response not JSON
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 258.56 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 243.05 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 242.69 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 351.33 ms | Database connection successful
+
+--- Ping #299 at 2025-10-01 02:54:33 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 432.15 ms | PMP Quiz Platform is running
+https://pmp-course-scraping.onrender.com/health -> 404 | 102.08 ms | Response not JSON
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 248.55 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 260.93 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 106.79 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 329.4 ms | Database connection successful
+
+--- Ping #300 at 2025-10-01 02:55:04 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 404.17 ms | PMP Quiz Platform is running
+https://pmp-course-scraping.onrender.com/health -> 404 | 253.56 ms | Response not JSON
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 125.32 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 243.17 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 123.61 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 335.7 ms | Database connection successful
+
+--- Ping #301 at 2025-10-01 02:55:36 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 488.23 ms | PMP Quiz Platform is running
+https://pmp-course-scraping.onrender.com/health -> 502 | 539.06 ms | Response not JSON
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 319.02 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 232.54 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 249.51 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 424.49 ms | Database connection successful
+
+--- Ping #302 at 2025-10-01 02:56:08 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 424.01 ms | PMP Quiz Platform is running
+https://pmp-course-scraping.onrender.com/health -> 404 | 249.48 ms | Response not JSON
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 235.43 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 258.78 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 245.51 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 336.11 ms | Database connection successful
+
+--- Ping #303 at 2025-10-01 02:56:40 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 387.12 ms | PMP Quiz Platform is running
+https://pmp-course-scraping.onrender.com/health -> 200 | 106.96 ms | API is operational
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 238.01 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 241.6 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 254.37 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 341.88 ms | Database connection successful
+
+--- Ping #304 at 2025-10-01 02:57:11 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 508.98 ms | PMP Quiz Platform is running
+https://pmp-course-scraping.onrender.com/health -> 200 | 107.6 ms | API is operational
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 101.65 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 225.64 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 102.64 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 237.98 ms | Database connection successful
+
+--- Ping #305 at 2025-10-01 02:57:43 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 281.29 ms | PMP Quiz Platform is running
+https://pmp-course-scraping.onrender.com/health -> 200 | 222.77 ms | API is operational
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 245.66 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 251.58 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 228.37 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 341.52 ms | Database connection successful
+
+--- Ping #306 at 2025-10-01 02:58:14 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 404.42 ms | PMP Quiz Platform is running
+https://pmp-course-scraping.onrender.com/health -> 200 | 262.41 ms | API is operational
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 230.55 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 140.7 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 113.56 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 229.57 ms | Database connection successful
+
+--- Ping #307 at 2025-10-01 02:58:46 ---
+https://pmp-course-backend.onrender.com/health -> 200 | 288.21 ms | PMP Quiz Platform is running
+https://pmp-course-scraping.onrender.com/health -> 200 | 145.26 ms | API is operational
+https://clementine-llm-summarizer-1.onrender.com -> 200 | 243.07 ms | LLM Summarizer API is running
+https://clementine-backend-vkyq.onrender.com/ -> 200 | 258.95 ms | Welcome to Clementine Chat App
+https://vehicle-rental-profile-image-uploader.onrender.com/health -> 200 | 266.53 ms | Service is running
+https://vehicle-rental-backend-deployment.onrender.com/health/database -> 200 | 357.69 ms | Database connection successful
